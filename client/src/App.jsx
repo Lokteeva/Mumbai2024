@@ -138,7 +138,7 @@ function App() {
 <div className="liSection2">
 <h2><span>БХАДЖАНЫ</span> с душой</h2>
 <div >
-<img className="border2storoni" src="http://gauragorsk.ru/images/NASTA/miscellaneous/bbks5.jpg"  alt="img"></img>
+<img className="border2storoni" src="pic7.jpg"  alt="img"></img>
 </div>   
 </div> 
 
